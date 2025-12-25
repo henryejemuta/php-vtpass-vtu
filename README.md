@@ -1,5 +1,7 @@
 # PHP VTpass VTU Client
 
+[![Run Tests](https://github.com/henryejemuta/php-vtpass-vtu/actions/workflows/run-tests.yml/badge.svg)](https://github.com/henryejemuta/php-vtpass-vtu/actions/workflows/run-tests.yml)
+[![Latest Stable Version](https://poser.pugx.org/henryejemuta/php-vtpass-vtu/v/stable)](https://packagist.org/packages/henryejemuta/php-vtpass-vtu)
 [![Total Downloads](https://poser.pugx.org/henryejemuta/php-vtpass-vtu/downloads)](https://packagist.org/packages/henryejemuta/php-vtpass-vtu)
 [![License](https://poser.pugx.org/henryejemuta/php-vtpass-vtu/license)](https://packagist.org/packages/henryejemuta/php-vtpass-vtu)
 [![Quality Score](https://img.shields.io/scrutinizer/g/henryejemuta/php-vtpass-vtu.svg?style=flat-square)](https://scrutinizer-ci.com/g/henryejemuta/php-vtpass-vtu)
