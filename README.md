@@ -1,5 +1,9 @@
 # PHP VTpass VTU Client
 
+[![Total Downloads](https://poser.pugx.org/henryejemuta/php-vtpass-vtu/downloads)](https://packagist.org/packages/henryejemuta/php-vtpass-vtu)
+[![License](https://poser.pugx.org/henryejemuta/php-vtpass-vtu/license)](https://packagist.org/packages/henryejemuta/php-vtpass-vtu)
+[![Quality Score](https://img.shields.io/scrutinizer/g/henryejemuta/php-vtpass-vtu.svg?style=flat-square)](https://scrutinizer-ci.com/g/henryejemuta/php-vtpass-vtu)
+
 A PHP package for integrating with the [VTpass API](https://www.vtpass.com/documentation/). This package allows you to easily purchase airtime, data, electricity, and other services provided by VTpass.
 
 ## Installation
