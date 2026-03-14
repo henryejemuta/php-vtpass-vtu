@@ -244,11 +244,22 @@ class Client
             'variation_code' => $variationCode,
             'phone' => $phone ?? $billersCode
         ];
-        
+
         if ($amount !== null) {
             $payload['amount'] = $amount;
         }
 
         return $this->purchase($payload);
+    }
+
+    /**
+     * Purchase Data.
+     *
+     * @return array
+     * @throws VtpassException
+     */
+    public function getBalance(): array
+    {
+        return $this->request('GET', 'balance');
     }
 }
